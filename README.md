@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sibaranipratiwi
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on creating frontend proect
+- 💞️ I’m looking to collaborate on creating frontend project
 - 📫 How to reach me == ==
 
 <!---
